@@ -14,10 +14,6 @@ The classifier takes a grayscale image of a handwritten digit as input and predi
 ## Installation and Usage 🛠️
 Clone this repository and navigate to the project directory. Install the required packages:
 
-```bash
-pip install -r requirements.txt
-
-
 ## 🌟 What's Inside?
 
 - **Instant Digit Recognition**: Upload your handwritten digit images and watch the model predict with precision.
