@@ -26,10 +26,10 @@ Clone this repository and navigate to the project directory. Install the require
 
 Experience the app in action! Here's a glimpse of what to expect:
 
-![Alt text](<Screenshot (261).png>)
-![Alt text](<Screenshot (262).png>)
-![Alt text](<Screenshot (263).png>)
-![Alt text](<Screenshot (264).png>)
+![Alt text](<output/Screenshot (261).png>)
+![Alt text](<output/Screenshot (262).png>)
+![Alt text](<output/Screenshot (263).png>)
+![Alt text](<output/Screenshot (264).png>)
 
 ## 🧠 Behind the Scenes
 
