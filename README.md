@@ -50,3 +50,4 @@ Got an idea or improvement? Your contributions are welcome! Feel free to fork th
 This project is open-source and available under the [MIT License](LICENSE.md).
 
 Embark on the digit classification odyssey with MNIST Digit Mastermind!
+Thanks 
